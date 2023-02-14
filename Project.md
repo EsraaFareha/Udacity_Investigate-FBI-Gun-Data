@@ -6,6 +6,7 @@ Overview: The data comes from the FBI's National Instant Criminal Background Che
 
 
 Variables:
+
 ● Dependent Variable: the ['totals','Population estimates, July 1, 2016, (V2016)','Population estimates base, April 1, 2010, (V2016)'] variable in gun data.
 
 ● Independent Variables: 'states'
